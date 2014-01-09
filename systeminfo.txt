@@ -1,6 +1,6 @@
 Aspire E1-522-3657
 
-Ubuntu 13.04 Raring Ringtail
+Ubuntu 13.10 Saucy Salamander
 
 AMD E1-2500 2 Core 1.4 GHz
 AMD Raedon 8240 512 MB VRAM
