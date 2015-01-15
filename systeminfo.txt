@@ -1,3 +1,20 @@
+
+Vernon
+
+Dell Inspiron 17 5000
+
+Xubuntu 14.04 Trusty Tahr
+
+Intel i7-4510U
+Nvidia GTX 750M
+17" of glorious 1600x900
+8GB DDR3 RAM
+750 GB HDD
+
+===============================
+
+Ronald
+
 Aspire E1-522-3657
 
 Ubuntu 13.10 Saucy Salamander
@@ -7,5 +24,3 @@ AMD Raedon 8240 512 MB VRAM
 15.6" LED display
 6GB DDR3 RAM
 750GB HDD
-802.11b/g/n & BT
-4-cell battery
