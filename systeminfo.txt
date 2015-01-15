@@ -1,4 +1,22 @@
 
+Matilda
+
+My rig :D
+
+Windows 8.1
+
+Intel i7-3770
+EVGA Nvidia GTX 770 2GB
+ASUS VG248QE and a Samsung TV
+16GB Kingston DDR3 RAM
+120GB Kingston SSD
+2TB Seagate HDD
+4TB Western Digital External
+850W Thermaltake PSU
+Thermaltake V3 Black case
+
+==============================
+
 Vernon
 
 Dell Inspiron 17 5000
@@ -7,7 +25,7 @@ Xubuntu 14.04 Trusty Tahr
 
 Intel i7-4510U
 Nvidia GTX 750M
-17" of glorious 1600x900
+17" of glorious 1600x900px
 8GB DDR3 RAM
 750 GB HDD
 
