@@ -24,7 +24,7 @@ Dell Inspiron 17 5000
 Xubuntu 14.04 Trusty Tahr
 
 Intel i7-4510U
-Nvidia GTX 750M
+Nvidia GTX 840M
 17" of glorious 1600x900px
 8GB DDR3 RAM
 750 GB HDD
